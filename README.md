@@ -48,7 +48,7 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="50" height="50"/>
 
   <!-- MS Word -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" width="50" height="50"/>
+  <img src="[https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" width="50" height="50"](https://www.pngwing.com/en/free-png-vhzym)/>
 
 <!-- Code::Blocks (text badge) -->
 <img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logoColor=white" />

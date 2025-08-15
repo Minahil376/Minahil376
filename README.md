@@ -1,13 +1,14 @@
 # Hi 👋, I'm Minahil Yaqoob
 
 🎓 Computer Science Student | 👩‍💻 Beginner Web Developer  
-🌱 Currently learning **HTML, CSS,and GitHub**  
+🌱 Currently learning *HTML, CSS, and GitHub*  
 📚 Passionate about building simple and creative projects  
 🎯 Goal: To become a confident front-end developer  
 🤝 Open to learning, internships, and beginner-friendly collaborations  
-📫 Reach me at: **minahilyaqoob41@gmail.com**
+📫 Reach me at: *minahilyaqoob41@gmail.com*
 
 ---
+
 ## 📬 Contact Me
 
 <p align="left">
@@ -39,8 +40,8 @@
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
   
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <!-- GitHub (Better Logo) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50" alt="GitHub Logo"/>
   
   <!-- NetBeans -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" height="50"/>
@@ -50,6 +51,7 @@
   
   <!-- MS Word -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" width="50" height="50"/>
+</p>
   
   <!-- Code::Blocks Badge -->
   <img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logoColor=white" />

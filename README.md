@@ -1,7 +1,7 @@
 # Hi 👋, I'm Minahil Yaqoob
 
 🎓 Computer Science Student | 👩‍💻 Beginner Web Developer  
-🌱 Currently learning *HTML, CSS, and GitHub*  
+🌱 Currently learning *HTML, CSS, JavaScript, Tailwind CSS and GitHub*  
 📚 Passionate about building simple and creative projects  
 🎯 Goal: To become a confident front-end developer  
 🤝 Open to learning, internships, and beginner-friendly collaborations  

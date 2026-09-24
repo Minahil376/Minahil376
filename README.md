@@ -2,9 +2,9 @@
 
 ### Computer Science Student | Machine Learning & Deep Learning Enthusiast | Exploring Computer Vision
 
-I'm a **BS Computer Science student at the University of Gujrat** with a growing interest in **Machine Learning, Deep Learning, and Computer Vision**.
+I'm a Computer Science student at the **University of Gujrat**, currently building my skills in **Machine Learning, Deep Learning, and Computer Vision**.
 
-I started my journey with **Frontend Development** and gradually moved toward **Machine Learning and Deep Learning**. Currently, I'm exploring **Computer Vision and YOLO-based applications**, with a focus on building practical projects and understanding how AI systems work in real-world scenarios.
+I started with Frontend Development and gradually moved toward AI, working on practical projects using Python and machine learning/deep learning frameworks. Currently, I'm exploring **Computer Vision, YOLO, Object Detection, and Object Tracking**.
 
 ---
 
@@ -19,84 +19,43 @@ I started my journey with **Frontend Development** and gradually moved toward **
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tools & Technologies
 
-### Programming & Data
+<p align="left">
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a> <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a> <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /></a> <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
 
-### Machine Learning & Deep Learning
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a> <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /></a> <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
 
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 
-### Computer Vision
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a> <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
 
-<p>
-<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge&logo=ultralytics&logoColor=white"/>
-</p>
-
-### Data Science & Development
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 YOLO Vehicle Tracking & Counting
+### 🚗 YOLO Vehicle Tracking and Counting
 
-YOLO11n + BoT-SORT + OpenCV based Computer Vision project for **vehicle detection, multi-object tracking, and class-wise counting**.
-
-**Detected classes:** Cars, Motorcycles, Buses & Trucks
+Vehicle detection, multi-object tracking, and counting using **YOLO11n, BoT-SORT, and OpenCV**.
 
 ### 🌿 LeafLens AI
 
-A CNN-based **Plant Disease Detection System** built using the PlantVillage dataset. The project explores CNNs and transfer learning models including **MobileNetV2, EfficientNetB0, and ResNet50**.
+A CNN-Based Plant Disease Detection System using **CNN, MobileNetV2, EfficientNetB0, and ResNet50**.
 
-### 📊 Customer Churn Prediction
+### 🧠 Customer Churn Prediction
 
-A **Deep Learning ANN** project using the IBM Telco Customer Churn dataset, covering preprocessing, model experimentation, regularization, evaluation, and prediction.
+A Deep Learning project using an **Artificial Neural Network (ANN)** for customer churn prediction.
 
 ### 🛒 Grocery Market Basket Analysis
 
-An association-rule mining project comparing **Apriori and FP-Growth** for discovering purchasing patterns.
+Market basket analysis using **Apriori and FP-Growth** algorithms.
 
 ---
 
-## 📚 Currently Exploring
+## 📚 My Learning Path
 
 ```text
 Machine Learning
@@ -110,24 +69,24 @@ YOLO & Object Detection
 Real-World AI Applications
 ```
 
-I'm currently focusing on strengthening my **Computer Vision and YOLO skills** while continuing to build practical AI projects.
-
----
-
-## 📈 GitHub Activity
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Minahil376&show_icons=true&theme=default&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
 
-<p>
+<p align="left">
+
 <a href="https://github.com/Minahil376">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+<a href="https://www.linkedin.com/in/minahil-yaqoob-588732352/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:minahilyaqoob41@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </p>
 
 ---

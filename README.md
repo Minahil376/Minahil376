@@ -4,7 +4,7 @@
 
 I'm a Computer Science student at the **University of Gujrat**, currently building my skills in **Machine Learning, Deep Learning, and Computer Vision**.
 
-I started with Frontend Development and gradually moved toward AI, working on practical projects using Python and machine learning/deep learning frameworks. Currently, I'm exploring **Computer Vision, YOLO, Object Detection, and Object Tracking**.
+I started with Frontend Development and gradually moved toward AI, working on practical projects using Python and machine learning and deep learning frameworks. Currently, I'm exploring **Computer Vision, YOLO, Object Detection, and Object Tracking**.
 
 ---
 
@@ -21,86 +21,102 @@ I started with Frontend Development and gradually moved toward AI, working on pr
 
 ## 🛠️ Tools & Technologies
 
+### Programming & Machine Learning
+
 <p align="left">
 
 <a href="https://www.python.org/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="45" height="45" alt="Python"/>
-</a>&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
 
 <a href="https://scikit-learn.org/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/scikitlearn.svg" width="45" height="45" alt="Scikit-Learn"/>
-</a>&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+</a>
 
 <a href="https://www.tensorflow.org/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tensorflow.svg" width="45" height="45" alt="TensorFlow"/>
-</a>&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</a>
 
 <a href="https://keras.io/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/keras.svg" width="45" height="45" alt="Keras"/>
-</a>&nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+</a>
 
 <a href="https://opencv.org/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/opencv.svg" width="45" height="45" alt="OpenCV"/>
-</a>&nbsp;
-
-<a href="https://numpy.org/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/numpy.svg" width="45" height="45" alt="NumPy"/>
-</a>&nbsp;
-
-<a href="https://pandas.pydata.org/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pandas.svg" width="45" height="45" alt="Pandas"/>
-</a>&nbsp;
-
-<a href="https://matplotlib.org/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/matplotlib.svg" width="45" height="45" alt="Matplotlib"/>
-</a>&nbsp;
-
-<a href="https://jupyter.org/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/jupyter.svg" width="45" height="45" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </a>
-
-<br><br>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/html5.svg" width="45" height="45" alt="HTML5"/>
-</a>&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/css3.svg" width="45" height="45" alt="CSS3"/>
-</a>&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" width="45" height="45" alt="JavaScript"/>
-</a>&nbsp;
-
-<a href="https://tailwindcss.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tailwindcss.svg" width="45" height="45" alt="Tailwind CSS"/>
-</a>&nbsp;
-
-<a href="https://react.dev/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/react.svg" width="45" height="45" alt="React"/>
-</a>&nbsp;
-
-<a href="https://git-scm.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="45" height="45" alt="Git"/>
-</a>&nbsp;
-
-<a href="https://github.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="45" height="45" alt="GitHub"/>
-</a>&nbsp;
-
-<a href="https://www.kaggle.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/kaggle.svg" width="45" height="45" alt="Kaggle"/>
-</a>&nbsp;
-
-<a href="https://code.visualstudio.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="45" height="45" alt="Visual Studio Code"/>
-</a>
-
-<br><br>
 
 <a href="https://www.ultralytics.com/">
-<img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" height="45" alt="Ultralytics"/>
+<img src="https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics"/>
+</a>
+
+</p>
+
+### Data Science & Visualization
+
+<p align="left">
+
+<a href="https://numpy.org/">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</a>
+
+<a href="https://matplotlib.org/">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</a>
+
+<a href="https://jupyter.org/">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</a>
+
+<a href="https://www.kaggle.com/">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+
+</p>
+
+### Frontend Development
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</a>
+
+</p>
+
+### Development Tools
+
+<p align="left">
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </a>
 
 </p>
@@ -148,11 +164,11 @@ Real-World AI Applications
 <p align="left">
 
 <a href="https://github.com/Minahil376">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="32" height="32" alt="GitHub"/>
-</a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 <a href="https://www.linkedin.com/in/minahil-yaqoob-588732352/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </p>
@@ -162,5 +178,4 @@ Real-World AI Applications
 ---
 
 ### 🌱 Always learning. Always building.
-
 

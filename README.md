@@ -23,13 +23,15 @@ I started with Frontend Development and gradually moved toward AI, working on pr
 
 <p align="left">
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a> <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a> <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /></a> <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
+<a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python"/></a>  <a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn" width="45" height="45" alt="Scikit-Learn"/></a>  <a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow" width="45" height="45" alt="TensorFlow"/></a>  <a href="https://keras.io/"><img src="https://cdn.simpleicons.org/keras" width="45" height="45" alt="Keras"/></a>  <a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv" width="45" height="45" alt="OpenCV"/></a>  <a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy" width="45" height="45" alt="NumPy"/></a>  <a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas" width="45" height="45" alt="Pandas"/></a>  <a href="https://matplotlib.org/"><img src="https://cdn.simpleicons.org/matplotlib" width="45" height="45" alt="Matplotlib"/></a>  <a href="https://jupyter.org/"><img src="https://cdn.simpleicons.org/jupyter" width="45" height="45" alt="Jupyter"/></a>
 
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a> <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /></a> <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+<br><br>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5" width="45" height="45" alt="HTML5"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css" width="45" height="45" alt="CSS3"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript" width="45" height="45" alt="JavaScript"/></a>  <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss" width="45" height="45" alt="Tailwind CSS"/></a>  <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react" width="45" height="45" alt="React"/></a>  <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git"/></a>  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub"/></a>  <a href="https://www.kaggle.com/"><img src="https://cdn.simpleicons.org/kaggle" width="45" height="45" alt="Kaggle"/></a>  <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45" alt="VS Code"/></a>
 
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a> <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+<br><br>
+
+<a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" height="45" alt="Ultralytics"/></a>
 
 </p>
 
@@ -76,18 +78,16 @@ Real-World AI Applications
 <p align="left">
 
 <a href="https://github.com/Minahil376">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+  <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/minahil-yaqoob-588732352/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:minahilyaqoob41@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/>
 </a>
 
 </p>
+
+📬 **[minahilyaqoob41@gmail.com](mailto:minahilyaqoob41@gmail.com)**
 
 ---
 
